@@ -11,5 +11,9 @@ On one hand, I like the editor, but on the other side, it seems too simple...
 1. GUI editor has a simple interface
 2. I can click save and post in one spot \(less mouse movements..\)
 
+# Questions
+
+How do I host this content?
+
 
 
