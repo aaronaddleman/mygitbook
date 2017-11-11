@@ -10,3 +10,9 @@ I wonder where this will end up...
 
 Ok this is really nice when I want to insert a link, it scans the content for linkable items \(headings\)
 
+# Oh cool
+
+I can switch really easily between active branches. I wonder how it handles conflicts?
+
+
+
