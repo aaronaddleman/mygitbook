@@ -6,5 +6,7 @@ I wonder how you have sub chapters. Are they based on the headers?
 
 I wonder where this will end up...
 
+[First Chapter](/chapter1.md "oh this is nice")
 
+Ok this is really nice when I want to insert a link, it scans the content for linkable items \(headings\)
 
