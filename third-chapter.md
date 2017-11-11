@@ -1,3 +1,8 @@
+---
+f1: value
+f2: thing
+---
+
 # The 3rd chapter
 
 So far its pretty cool
@@ -13,6 +18,4 @@ I gots to have me some tables
 |  |  | to |
 | Okay when i hit enter, a new row appears | Very cool | add |
 | Oh cool, i can align the entire column |  | columns |
-
-
 
