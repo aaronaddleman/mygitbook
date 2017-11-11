@@ -10,3 +10,9 @@ I wonder where this will end up...
 
 Ok this is really nice when I want to insert a link, it scans the content for linkable items \(headings\)
 
+# Ok, this is v1 branch
+
+I imagine this is just a git branch that I can merge later on.
+
+
+
